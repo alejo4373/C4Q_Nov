@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Neucha");
+
+html {
+    background-color: black;
+    color: white;
+}
+
+html, input {
+    font-family: 'Neucha', cursive;
+}
+
+li:hover {
+    background-color: yellow;
+    color: red;
+}

@@ -1,0 +1,15 @@
+/* the page has a lime background with magenta text
+the button has a magenta background with lime text
+all text uses the font Spectral SC (you will have to import this)
+this includes the button text */
+
+html {
+    background-color: lime;
+    color: magenta;
+    font-family: 'Spectral SC', serif;
+}
+
+.clear {
+    background-color: magenta;
+    color: lime;
+}

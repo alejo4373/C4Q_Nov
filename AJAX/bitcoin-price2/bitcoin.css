@@ -1,0 +1,32 @@
+#main {
+    /* width: 500px; */
+    width: 500px;    
+    margin: 0 auto;
+    text-align: center;
+    background-color: #F7931A;
+    border-radius: 25px;
+    padding: 2%;
+    font-family: 'Coiny'
+}
+
+.same-size {
+    width: 32%;
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: middle;
+    color: white
+}
+
+img {
+    vertical-align: middle;
+}
+
+#output-div{
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+    font-size: 1.5em;
+    height: 25px;
+}

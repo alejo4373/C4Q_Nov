@@ -1,0 +1,17 @@
+ @import url("https://fonts.googleapis.com/css?family=Bubblegum+Sans");
+
+ html{
+     background-color: grey;
+ }
+
+ body {
+     text-align: center
+ }
+
+#btns{
+    margin: 0.7em;
+}
+
+html, button, input {
+    font-family: 'Bubblegum Sans', cursive;
+}

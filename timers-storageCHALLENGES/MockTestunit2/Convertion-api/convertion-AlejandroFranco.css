@@ -1,0 +1,18 @@
+/* all text uses the font "Nunito" (you will have to import this)
+this includes button text and the text input field
+buttons are below the input field (this can be done with HTML) 
+the "Original Number" and "Original Base" paragraphs have a smaller font than the other 3 paragraphs
+the header is underlined */
+
+html {
+    font-family: 'Nunito', sans-serif;
+    font-size: 17px
+}
+
+.original {
+    font-size: 0.8em;
+}
+
+.header {
+    text-decoration: underline;
+}
